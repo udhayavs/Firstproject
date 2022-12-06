@@ -2,6 +2,7 @@ public class Main
 {
 public static void main(string args[])
 {
-System.out.println("hi");
+  int a=10;
+System.out.println("hi" +a);
 }
 }
